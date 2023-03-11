@@ -3,7 +3,7 @@
 SEC-Toolkit is a Python-based command-line tool that allows users to perform various security assessments and penetration testing tasks. The tool is designed to be user-friendly and easy to use, even for beginners.
 SEC-Toolkit is heavily inspired by the Social-Engineer Toolkit (SET) created by TrustedSec and borrows some of its features. However, SEC-Toolkit is not a direct copy of SET and has been developed independently.
 
-- Copyright ©️ 2023Q
+- Copyright ©️ 2023
 - Written by Jirathud Jiewkaew (March)
 
 ## Installation
