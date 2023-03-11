@@ -13,7 +13,7 @@ git clone https://github.com/your-username/SEC-Toolkit.git
 
 ```bash
 git clone
-pip install -r requirements
+pip install -r requirements.txt
 chmod +x main.py
 python3 main.pyx`
 ```
