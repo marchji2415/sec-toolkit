@@ -15,7 +15,7 @@ git clone https://github.com/your-username/SEC-Toolkit.git
 git clone
 pip install -r requirements.txt
 chmod +x main.py
-python3 main.pyx`
+python3 main.py
 ```
 
 
